@@ -1,0 +1,5 @@
+name <- readline(prompt="Enter name: ")
+age <- readline(prompt="Enter age: ")
+#print(name)
+#print(age)
+print(paste("Hi,",name,"i am",age))
